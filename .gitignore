@@ -213,3 +213,4 @@ logs/
 .cache/
 
 **/AppData/Local/Temp/
+results/
